@@ -1,14 +1,11 @@
 @import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
-
-
-
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'TechnicBold';
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -24,7 +21,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'TechnicBold';
   font-size: 1rem;
   font-display: swap;
 }
@@ -40,7 +37,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'TechnicBold';
   font-size: 1rem;
   font-display: swap;
 }
@@ -101,7 +98,7 @@ body {
   background-color: #82786e !important;
 }
 .bg-warning {
-  background-color: #879a9f !important;
+  background-color: #333333 !important;
 }
 .bg-danger {
   background-color: #b1a374 !important;
@@ -188,8 +185,8 @@ body {
 }
 .btn-warning,
 .btn-warning:active {
-  background-color: #879a9f !important;
-  border-color: #879a9f !important;
+  background-color: #333333 !important;
+  border-color: #333333 !important;
   color: #ffffff !important;
 }
 .btn-warning:hover,
@@ -197,14 +194,14 @@ body {
 .btn-warning.focus,
 .btn-warning.active {
   color: #ffffff !important;
-  background-color: #617479 !important;
-  border-color: #617479 !important;
+  background-color: #0d0d0d !important;
+  border-color: #0d0d0d !important;
 }
 .btn-warning.disabled,
 .btn-warning:disabled {
   color: #ffffff !important;
-  background-color: #617479 !important;
-  border-color: #617479 !important;
+  background-color: #0d0d0d !important;
+  border-color: #0d0d0d !important;
 }
 .btn-danger,
 .btn-danger:active {
@@ -352,22 +349,22 @@ body {
 .btn-warning-outline,
 .btn-warning-outline:active {
   background: none;
-  border-color: #55666b;
-  color: #55666b;
+  border-color: #000000;
+  color: #000000;
 }
 .btn-warning-outline:hover,
 .btn-warning-outline:focus,
 .btn-warning-outline.focus,
 .btn-warning-outline.active {
   color: #ffffff;
-  background-color: #879a9f;
-  border-color: #879a9f;
+  background-color: #333333;
+  border-color: #333333;
 }
 .btn-warning-outline.disabled,
 .btn-warning-outline:disabled {
   color: #ffffff !important;
-  background-color: #879a9f !important;
-  border-color: #879a9f !important;
+  background-color: #333333 !important;
+  border-color: #333333 !important;
 }
 .btn-danger-outline,
 .btn-danger-outline:active {
@@ -436,7 +433,7 @@ body {
   color: #82786e !important;
 }
 .text-warning {
-  color: #879a9f !important;
+  color: #333333 !important;
 }
 .text-danger {
   color: #b1a374 !important;
@@ -465,7 +462,7 @@ a.text-info:focus {
 }
 a.text-warning:hover,
 a.text-warning:focus {
-  color: #55666b !important;
+  color: #000000 !important;
 }
 a.text-danger:hover,
 a.text-danger:focus {
@@ -486,7 +483,7 @@ a.text-black:focus {
   background-color: #82786e;
 }
 .alert-warning {
-  background-color: #879a9f;
+  background-color: #333333;
 }
 .alert-danger {
   background-color: #b1a374;
@@ -535,7 +532,7 @@ a:hover {
 }
 .mbr-plan-header.bg-warning .mbr-plan-subtitle,
 .mbr-plan-header.bg-warning .mbr-plan-price-desc {
-  color: #ced6d8;
+  color: #a6a6a6;
 }
 .mbr-plan-header.bg-danger .mbr-plan-subtitle,
 .mbr-plan-header.bg-danger .mbr-plan-price-desc {
@@ -546,7 +543,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'TechnicBold';
   font-size: 1rem;
   font-display: swap;
 }
@@ -1110,7 +1107,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s8BPIMM3AU {
-  background-image: url("../../../assets/images/background4.jpg");
+  background-image: url("../../../assets/images/tlo-2000x1500.jpg");
 }
 .cid-s8BPMoUU0c {
   padding-top: 60px;
