@@ -1,11 +1,13 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Share+Tech:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i&display=swap);
+
 
 
 body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'TechnicBold';
+  font-family: 'Share Tech', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }

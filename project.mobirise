@@ -13,7 +13,7 @@
         "warningColor": "#333333",
         "dangerColor": "#B1A374",
         "mainFont": "Rubik",
-        "display1Font": "TechnicBold",
+        "display1Font": "Share Tech",
         "display1Size": 4.25,
         "display2Font": "Rubik",
         "display2Size": 3,
@@ -39,10 +39,21 @@
         "name": "TechnicBold",
         "url": null,
         "file": "@PROJECT_PATH@/fonts/TechnicBold/font.ttf"
+      },
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      },
+      {
+        "css": "'Share Tech', sans-serif",
+        "name": "Share Tech",
+        "url": "https://fonts.googleapis.com/css?family=Share+Tech:400"
       }
     ],
     "uniqCompNum": 7,
-    "versionPublish": "4.11.6"
+    "versionPublish": "4.11.6",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
