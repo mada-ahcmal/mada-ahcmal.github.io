@@ -2,7 +2,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -10,7 +10,7 @@ body {
   font-size: 6.8rem;
 }
 .display-2 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 3rem;
   font-display: swap;
 }
@@ -18,7 +18,7 @@ body {
   font-size: 4.8rem;
 }
 .display-4 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -26,7 +26,7 @@ body {
   font-size: 1.6rem;
 }
 .display-5 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 1.5rem;
   font-display: swap;
 }
@@ -34,7 +34,7 @@ body {
   font-size: 2.4rem;
 }
 .display-7 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -540,7 +540,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Alegreya Sans', sans-serif;
   font-size: 1rem;
   font-display: swap;
 }
@@ -2026,7 +2026,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s8GR1m0fR7 {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -2556,7 +2556,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s8GUXFdNm7 {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -3086,7 +3086,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-s8NkfLbE2S {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -3624,7 +3624,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sMXSK60hOg {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -4154,7 +4154,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sO5KTOvqBq {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -4682,7 +4682,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sO5NXgLNBi {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -4718,7 +4718,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-sO5NXgLNBi .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0.1 !important;
 }
 .cid-sO5NXgLNBi .mbr-gallery-title {
   font-size: .9em;
@@ -4739,7 +4739,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0.1;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
@@ -5212,7 +5212,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-sOcBk11PUR {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -5248,7 +5248,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-sOcBk11PUR .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0 !important;
 }
 .cid-sOcBk11PUR .mbr-gallery-title {
   font-size: .9em;
@@ -5269,7 +5269,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
@@ -5742,7 +5742,7 @@ section.lazy-placeholder:after {
   color: #c1c1c1 !important;
 }
 .cid-tQqkORC5m2 {
-  padding-top: 0px;
+  padding-top: 75px;
   padding-bottom: 0px;
   background-color: #2e2e2e;
   overflow: hidden;
@@ -5778,7 +5778,7 @@ section.lazy-placeholder:after {
   background: transparent !important;
 }
 .cid-tQqkORC5m2 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
+  opacity: 0 !important;
 }
 .cid-tQqkORC5m2 .mbr-gallery-title {
   font-size: .9em;
@@ -5799,7 +5799,7 @@ section.lazy-placeholder:after {
   z-index: -1;
   position: absolute;
   background: #554346 !important;
-  opacity: 0.7;
+  opacity: 0;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
@@ -5871,4 +5871,7 @@ section.lazy-placeholder:after {
     -webkit-justify-content: center;
     justify-content: center;
   }
+}
+.cid-tQqkOSjQHC DIV {
+  text-align: left;
 }
