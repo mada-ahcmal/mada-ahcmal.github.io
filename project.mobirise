@@ -82,7 +82,7 @@
     "versionPublish": "5.9.6",
     "screenshot": "screenshot.png",
     "imageResize": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "favicon": false,
     "mbrsiteDomain": "zty8fdbatp",
     "robotsSwitcher": false,
